@@ -1,8 +1,8 @@
 # games-jupyter-hub
 
 [![Extension status](https://img.shields.io/badge/status-ready-success "ready to be used")](https://jupyterlab-contrib.github.io/)
-[![Github Actions Status](https://github.com/jupyterlab-contrib/jupyterlab-link-share/workflows/Build/badge.svg)](https://github.com/gamesconsort/games-jupyter-hub/actions/workflows/build.yml)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gamesconsort/games-jupyter-hub/main?urlpath=/lab)
+[![Github Actions Status](https://github.com/jupyterlab-contrib/jupyterlab-link-share/workflows/Build/badge.svg)](https://github.com/gamesconsort/games-jupyter-hub/notebooks/actions/workflows/build.yml)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gamesconsort/games-jupyter-hub/notebooks/main?urlpath=/lab)
 
 JupyterLab Extension to share the URL to a running Jupyter Server
 
