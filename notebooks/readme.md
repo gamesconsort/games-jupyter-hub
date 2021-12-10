@@ -1,4 +1,4 @@
-# jupyterlab-link-share
+# games-jupyter-hub
 
 [![Extension status](https://img.shields.io/badge/status-ready-success "ready to be used")](https://jupyterlab-contrib.github.io/)
 [![Github Actions Status](https://github.com/gamesconsort/games-jupyter-hub/workflows/Build/badge.svg)](https://github.com/gamesconsort/games-jupyter-hub/actions/workflows/build.yml)
