@@ -2,7 +2,6 @@
 
 [![Extension status](https://img.shields.io/badge/status-ready-success "ready to be used")](https://jupyterlab-contrib.github.io/)
 [![Github Actions Status](https://github.com/gamesconsort/games-jupyter-hub/workflows/Build/badge.svg)](https://github.com/gamesconsort/games-jupyter-hub/actions/workflows/build.yml)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gamesconsort/games-jupyter-hub/main?urlpath=/lab)
 
 JupyterLab Extension to share the URL to a running Jupyter Server
